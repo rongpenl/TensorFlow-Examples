@@ -4,6 +4,8 @@ This tutorial was designed for easily diving into TensorFlow, through examples. 
 
 It is suitable for beginners who want to find clear and concise examples about TensorFlow. Besides the traditional 'raw' TensorFlow implementations, you can also find the latest TensorFlow API practices (such as `layers`, `estimator`, `dataset`, ...).
 
+**Update (01/11/2021):** Upgraded [`tensorflow_v2`](tensorflow_v2) notes for the up-to-date tensorflow-2.2.0 version. Added `requirements.txt` for reproducibility.
+
 **Update (05/16/2020):** Moving all default examples to TF2. For TF v1 examples: [check here](https://github.com/aymericdamien/TensorFlow-Examples/blob/master/tensorflow_v1).
 
 ## Tutorial index
